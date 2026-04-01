@@ -4,7 +4,7 @@ import Image from "next/image";
 const footerLinks = [
     { href: "https://github.com/EmehGreg", label: "GitHub" },
     {
-        href: "https://www.linkedin.com/",
+        href: "https://www.linkedin.com/in/emehgreg",
         label: "LinkedIn",
     },
     { href: "https://x.com/", label: "Twitter" },
